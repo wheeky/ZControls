@@ -11,6 +11,9 @@ using Zwj.TEMS.Common;
 
 namespace TEMS.Controls
 {
+    /// <summary>
+    /// 勾选框，支持依据实体属性来显示标签及值
+    /// </summary>
     public partial class CCheckBox : UserControl,IZwjDefControl
     {
         [Description("当值改变时触发该事件")]
