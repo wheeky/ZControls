@@ -11,7 +11,9 @@ using Zwj.TEMS.Common;
 
 namespace TEMS.Controls
 {
-
+    /// <summary>
+    /// 勾选框
+    /// </summary>
     public partial class CCheckBox : UserControl,IZwjDefControl
     {
         [Description("当值改变时触发该事件")]
