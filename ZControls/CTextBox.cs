@@ -12,6 +12,11 @@ using Zwj.TEMS.Common;
 
 namespace TEMS.Controls
 {
+    /// <summary>
+    /// 文本框
+    /// Author:Wheeky
+    /// Url:www.zuowenjun.cn
+    /// </summary>
     public partial class CTextBox : UserControl,IZwjDefControl
     {
         [Description("当点击按钮时触发该事件")]
