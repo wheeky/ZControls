@@ -11,6 +11,9 @@ using System.Linq.Expressions;
 
 namespace TEMS.Controls
 {
+    /// <summary>
+    /// 日期时间选择框
+    /// </summary>
     public partial class CDateTimePicker : UserControl, IZwjDefControl
     {
 
